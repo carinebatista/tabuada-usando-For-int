@@ -1,6 +1,6 @@
 # tabuada-usando-For-int
 
-Código onde o usuario inseri o valor que deseja multiplicar ate quanto quer que essa multiplicaçao ocorra.
+Código onde o usuario insere o valor que deseja multiplicar ate quanto quer que essa multiplicaçao ocorra.
 
 #Exemplo :
 
